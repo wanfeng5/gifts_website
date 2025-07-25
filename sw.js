@@ -6,12 +6,12 @@ const resourcesToCache = [
     // 页面自身
     '/',
     // 图片资源
-    'static/images/img.jpg',
-    'static/images/微信图片_20250725201919.jpg',
-    'static/images/微信图片_20250725201943.jpg',
-    'static/images/微信图片_20250725201952.jpg',
+    'img.jpg',
+    '微信图片_20250725201919.jpg',
+    '微信图片_20250725201943.jpg',
+    '微信图片_20250725201952.jpg',
     // 音频资源
-    'static/music/birthday.mp3',
+    'birthday.mp3',
     // 外部资源
     'https://cdn.tailwindcss.com',
     'https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css',
